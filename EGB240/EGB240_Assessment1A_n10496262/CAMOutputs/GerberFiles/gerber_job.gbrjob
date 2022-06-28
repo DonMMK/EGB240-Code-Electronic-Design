@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-04-05T08:21:32Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "EGB240_Assessment1A_n10496262"
+        },
+        "Owner": "Don Kaluarachchi <don.kaluarachchi@connect.qut.edu.au>",
+        "Size": {
+            "X": 55.95,
+            "Y": 28.156
+        }
+    }
+}
